@@ -1,0 +1,9 @@
+name: HardCore
+version: '${project.version}'
+main: fr.endide.hardcore.HardCore
+api-version: 1.19
+authors: [ Krfcm2 ]
+description: A plugin to have a decent hardcore and realistic gamemode
+commands:
+  hc:
+    description: Enable or disable hardcore mode
